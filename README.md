@@ -13,7 +13,7 @@
 
 首次运行需要联网获取开源 3D 资产。下载失败不会阻止游戏启动：本地文件缺失时，HTML 会尝试从固定在线源加载；成功缓存后可优先使用本地资产。
 
-![image1](images1.png)
+![image1](image1.png)
 
 ## 核心功能
 
@@ -34,7 +34,7 @@
 
 ## 快速开始
 
-![image2](images2.png)
+![image2](image2.png)
 
 ### 系统要求
 
@@ -72,7 +72,7 @@ Start_Town.bat
 | 隐藏或显示 HUD | `H` |
 | 返回广场 | `R` |
 
-![image3](images3.png)
+![image3](image3.png)
 
 ## 战斗规则
 
